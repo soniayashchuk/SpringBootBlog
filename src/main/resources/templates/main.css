@@ -1,0 +1,32 @@
+h1 {
+    color: #0000ff;
+}
+
+h2 {
+    color: #d6fff7;
+}
+
+.container {
+    color: #7fa5b7;
+
+}
+
+.validation-message {
+    font-style: normal;
+    font-size: 14px;
+    color: #f7ff1a;
+}
+
+a {
+    transition: all .2s;
+}
+
+a:hover, a:focus, a:active {
+    color: #000000;
+    text-decoration: none;
+}
+
+.pagination {
+    display: block;
+    text-align: center;
+}
